@@ -1,0 +1,3 @@
+http://localhost/phpmyadmin/
+tạo mới monitoring; import monitoring.sql
+http://localhost/monitoring_system/
